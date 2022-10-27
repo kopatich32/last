@@ -5,9 +5,15 @@
 //}
 //echo number(10, array('яблоко', 'яблока', 'яблок'));
 
-class Man {
-   public $hairs = 'white';
+
+class ryoushin {
+    public $hairs = 'white';
     public $body = 'ordinary';
+
+}
+class Man extends  ryoushin{
+//   public $hairs = 'white';
+//    public $body = 'ordinary';
     public function eat ($calories){
         if ($calories < 2000){
    $this->body = 'fat';
