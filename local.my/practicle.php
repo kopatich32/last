@@ -6,32 +6,55 @@
 //echo number(10, array('яблоко', 'яблока', 'яблок'));
 
 
-class ryoushin {
+class grandpa {
     public $hairs = 'white';
     public $body = 'ordinary';
-
-}
-class Man extends  ryoushin{
-//   public $hairs = 'white';
-//    public $body = 'ordinary';
+    //protected $eye = 'Глаза';
+    private $eye = 'Глаза';
     public function eat ($calories){
         if ($calories < 2000){
-   $this->body = 'fat';
+            $this->body = 'fat';
         }else{
             $this->body = 'thin';
         }
 
     }
+    protected function showEye (){
+        return $this->eye;
+    }
 }
-$Petya = new Man();
-$Vasya = new Man();
+class father extends  grandpa{
+//    public function showEye (){
+//       $eye =  parent::showEye();
+//       $eye .=' beautifull';
+//       return $eye;
+//    }
+protected $hair = 'pink';
+public function  recolor($color){
+$this -> hair = $color;
+echo $this-> hair;
+}
+
+}
+
+
+$Petya = new father();
+$Vasya = new father();
+
+
 
 //echo ('Petya has ' . $Petya->hairs . ' hairs color' . '<br>');
 //echo ('Vasya has ' . $Vasya->body . ' body' . '<br>');
 //$Vasya->hairs = 'black';
 //echo ('Petya has ' . $Vasya->hairs . ' hairs color' . '<br>');
-echo ('Vasya has ' . $Vasya->body . ' body' . '<br>');
-$Petya-> eat(1500);
-$Vasya-> eat(2500);
-echo ('Petya has ' . $Petya->body . ' body' . '<br>');
-echo ('Vasya has ' . $Vasya->body . ' body' . '<br>');
+//echo 'Vasya has ' . $Vasya->body . ' body' . '<br>';
+//$Petya-> eat(1500);
+//$Vasya-> eat(2500);
+//echo 'Petya has ' . $Petya->body . ' body' . '<br>';
+//echo 'Vasya has ' . $Vasya->body . ' body' . '<br>';
+
+//echo $Petya->showEye() . ' и бльшие';
+//echo $Petya ->hair;
+$Petya->recolor('景色') ;
+$color = 'зелёное';
+$fruit = 'яблоко';

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfcdfb48-4add-4156-9d73-042356d55e8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/practicle.php" beforeDir="false" afterPath="$PROJECT_DIR$/practicle.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="local.my" id="51f077da-f434-4380-a07d-1e3628a66e08" name="local.my" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="2FMPWpvMW0B4sjbrN5KP6QltgHt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.php" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfcdfb48-4add-4156-9d73-042356d55e8b" name="Default Changelist" comment="" />
+      <created>1664299014068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664299014068</updated>
+      <workItem from="1664299015338" duration="8340000" />
+      <workItem from="1664440612368" duration="4077000" />
+      <workItem from="1664483288893" duration="423000" />
+      <workItem from="1664545553482" duration="641000" />
+      <workItem from="1664730767275" duration="2623000" />
+      <workItem from="1665160243055" duration="105000" />
+      <workItem from="1665696699186" duration="1330000" />
+      <workItem from="1666818889678" duration="74000" />
+      <workItem from="1666818965532" duration="3853000" />
+      <workItem from="1666874235209" duration="2366000" />
+      <workItem from="1666876965895" duration="3331000" />
+      <workItem from="1666980367537" duration="765000" />
+      <workItem from="1667018054083" duration="21946000" />
+      <workItem from="1667154955934" duration="6234000" />
+      <workItem from="1667233748049" duration="3264000" />
+    </task>
+    <task id="LOCAL-00001" summary="Первый пример">
+      <created>1666877959954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666877959954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Окончания слов">
+      <created>1666878763845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666878763845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый пример" />
+    <MESSAGE value="Окончания слов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Окончания слов" />
+  </component>
+</project>
